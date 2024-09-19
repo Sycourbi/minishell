@@ -2,8 +2,8 @@
 ![C Language](https://img.shields.io/badge/language-C-blue)
 ![Shell Implementation](https://img.shields.io/badge/shell-minishell-blue)
 ![Features](https://img.shields.io/badge/features-Redirection%20%7C%20Pipes%20%7C%20Jobs-yellow)
-
-
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 ## Description
 
