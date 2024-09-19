@@ -1,4 +1,9 @@
 # Minishell
+![C Language](https://img.shields.io/badge/language-C-blue)
+![Shell Implementation](https://img.shields.io/badge/shell-minishell-blue)
+![Features](https://img.shields.io/badge/features-Redirection%20%7C%20Pipes%20%7C%20Jobs-yellow)
+
+
 
 ## Description
 
